@@ -8,7 +8,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-[Deploy](https://monumental-travel.netlify.app/))
+[Deploy](https://monumental-travel.netlify.app/)
 ---
 
 ## The project 🖼️
