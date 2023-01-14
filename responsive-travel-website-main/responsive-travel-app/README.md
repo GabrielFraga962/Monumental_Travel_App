@@ -22,4 +22,4 @@
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[BSD 3-Clause](https://github.com/GabrielFraga962/Monumental_Travel_App/blob/main/LICENSE)**;
-- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+- Copyright 2023 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
